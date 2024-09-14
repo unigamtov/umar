@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: yellow;
+}
+#8{
+    background-color: blue;
+}
+span{
+    color: green;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: rgb(31, 1, 113);
+}
+p{
+    color: white;
+}
+table{
+    width: 100%;
+}
+tr{
+    color: white;
+}
+button{
+    border-radius: 20px;
+    text-align: center;
+}
+body{
+    
+}
